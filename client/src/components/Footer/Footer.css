@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Rakkas&family=Roboto+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Scribble&display=swap');
+.uu{
+    font-size: 2rem;
+    font-family: Rubik Scribble;
+    font-weight: 800;
+    padding-top: 5px;
+    text-shadow:1px 1px black;
+}
+.jj{
+    height:50px;  
+}
+.we{
+    font-family: "Dancing Script", cursive;
+    font-size: 1.5rem;
+}
+
+  

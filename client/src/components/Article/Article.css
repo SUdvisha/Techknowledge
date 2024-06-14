@@ -1,0 +1,59 @@
+.container {
+    margin: 50px auto;
+    max-width: 900px;
+  }
+  
+  .container h2 {
+    color: white;
+  }
+  
+  .container p {
+    color: white;
+    margin-bottom: 0;
+  }
+  
+  .border-primary {
+    border-color: #007bff !important;
+    padding-top: 10px;
+  }
+  
+  .text-secondary {
+    color: #6c757d !important;
+  }
+  
+  .bg-dark {
+    background-color: #343a40 !important;
+  }
+  
+  .text-center {
+    text-align: center !important;
+  }
+  .poo{
+    font-family: cursive;
+    font-size: 1rem;
+    
+  }
+  .ddd{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: rgb(188, 188, 69);
+  }
+  .commentssss{
+    padding-left: 110px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    
+    
+  }
+  .commentbox{
+    margin-left:110px;
+    border: 2px black solid;
+  }
+  .buttoncomment{
+    margin-left:110px;
+    margin-bottom: 5px;
+  }
+  .commentposted{
+    margin-left:110px;
+
+  }

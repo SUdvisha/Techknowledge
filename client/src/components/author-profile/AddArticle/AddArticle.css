@@ -1,0 +1,86 @@
+.container {
+  padding-bottom: 50px;
+  margin-top: 10px;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.card-title {
+  background-color: #000000;
+  color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.card-title h2 {
+  margin: 0;
+  color: white;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.form-label {
+  font-weight: bold;
+  align-items: start;
+}
+.kkk{
+  align-items: start;
+}
+
+.form-control {
+  border-radius: 5px;
+}
+
+.form-select {
+  border-radius: 5px;
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+}
+
+textarea.form-control {
+  border-radius: 5px;
+  resize: vertical;
+}
+
+.btn {
+  background-color: #007bff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+.text-danger {
+  color: red;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.ms-3 {
+  margin-left: 1rem !important;
+}
+
+@media (max-width: 576px) {
+  .card-body {
+      padding: 15px;
+  }
+
+  .form-control,
+  .form-select,
+  textarea.form-control {
+      font-size: 0.9rem;
+  }
+
+  .btn {
+      padding: 8px 15px;
+  }
+}

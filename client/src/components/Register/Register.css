@@ -1,0 +1,56 @@
+.abc {
+    background-color: rgb(96, 92, 92);
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20200802/pngtree-technologi-design-grey-gradient-background-image_381250.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    margin-top: 150px;
+    background-color: rgba(255, 255, 255, 0.9);
+    
+}
+
+.card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+    margin-bottom: 250px;
+}
+
+.btn-primary {
+    background-color: #6c63ff;
+    border: none;
+    padding-right: 200px;
+}
+
+.btn-primary:hover {
+    background-color: #574b90;
+}
+
+p a {
+    color: #6c63ff;
+    text-decoration: none;
+}
+
+p a:hover {
+    text-decoration: underline;
+}
+
+h4 {
+    color: white;
+    text-align: center;
+}
+.kk{
+    border-color: black;
+}
+.form-control {
+    border: 2px solid black; /* Black border for textboxes */
+}
+.form-control:focus {
+    box-shadow: none;
+    border-color: black;
+}
